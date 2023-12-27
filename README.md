@@ -14,12 +14,12 @@ Check the plugin validation report and finish the installation.
 # Installing manually
 The plugin can be also installed by putting the contents of this directory to
 
-{your/moodle/dirroot}/blocks/tulad
+      {your/moodle/dirroot}/blocks/tulad
 
 Afterwards, log in to your Moodle site as an admin and go to Site administration >
 Notifications to complete the installation.
 Alternatively, you can run
 
-$ php admin/cli/upgrade.php
+      $ php admin/cli/upgrade.php
 
 to complete the installation from the command line.
